@@ -17,12 +17,7 @@
     <ul>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/referenceapp/">Explore a fully-featured reference application using the AWS SDK for Java</a></li>
     </ul>
-    <h2>AWS Toolkit for Eclipse</h2>
-    <ul>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/eclipse/">Developers may build and deploy AWS Elastic Beanstalk applications directly from Eclipse</a></li>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/eclipsesc/">Get started with Eclipse and AWS Elastic Beanstalk by watching this video</a></li>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/docs/">View all AWS Elastic Beanstalk documentation</a></li>
-    </ul>
+    
   </div>
 
 </body>
