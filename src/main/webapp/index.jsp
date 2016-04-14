@@ -87,7 +87,7 @@
 <body id="sample">
   <div class="textColumn">
     <h1>Congratulations</h1>
-    <p>Your first AWS Elastic Beanstalk Application is now running on your own dedicated environment in the AWS Cloud</p>
+    <p>Your second version of AWS Elastic Beanstalk Application is now running on your own dedicated environment in the AWS Cloud</p>
   </div>
   
   <div class="linksColumn"> 
